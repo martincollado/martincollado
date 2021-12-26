@@ -1,9 +1,9 @@
-![Banner](https://github.com/mcolladoio/mcolladoio/blob/master/icons/linkedin.png?raw=true)
+![Banner](https://github.com/mcolladoio/mcolladoio/blob/main/icons/banner.png?raw=true)
 ---
 <p align='center'>
-<a href="https://medium.com/@martincollado"><img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://martincollado.dev"><img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/master/icons/web-programming.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/martincollado-dev"><img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@martincollado"><img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/main/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://martincollado.dev"><img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/main/icons/web-programming.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/martincollado-dev"><img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/main/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 </p>
     
 ### Hi there 👋 
@@ -19,13 +19,13 @@ I'm starting to write on medium recently, mostly technical articles, you can see
 
 ### Core tech
 
-| <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/master/icons/python.png?raw=true"> | <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/master/icons/kubernetes.png?raw=true"> | <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/master/icons/aws.png?raw=true"> | <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/master/icons/gcp.png?raw=true"> | 
-|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/main/icons/python.png?raw=true"> | <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/main/icons/kubernetes.jpeg?raw=true"> | <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/main/icons/aws.png?raw=true"> | <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/main/icons/gcp.png?raw=true"> | 
+|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 
 ### Frameworks & Technologies
 
-| <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/master/icons/docker.png?raw=true"> | <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/master/icons/vue.png?raw=true"> | <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/master/icons/angular.png?raw=true">  | <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/master/icons/ionic-flat.png?raw=true">  | <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/master/icons/graphql.png?raw=true">  | <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/master/icons/hasura.png?raw=true">  |
-|--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|---|---|---|---|
+| <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/main/icons/docker.png?raw=true"> | <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/main/icons/vue.png?raw=true"> | <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/master/main/angular.png?raw=true"> | <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/main/icons/ionic-flat.png?raw=true"> | <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/main/icons/graphql.png?raw=true"> | <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/main/icons/hasura.png?raw=true"> |
+|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
 
 
 ### Last articles on [medium.com](https://medium.com/@martincollado) 👨🏼‍💻
