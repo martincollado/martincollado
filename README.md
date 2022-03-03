@@ -1,9 +1,9 @@
-![Banner](https://github.com/mcolladoio/mcolladoio/blob/main/icons/banner.png?raw=true)
+![Banner](https://github.com/martincolladodev/mcolmartincolladodevladoio/blob/main/icons/banner.png?raw=true)
 ---
 <p align='center'>
-<a href="https://martincollado.dev"><img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/main/icons/web-programming.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@martincollado"><img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/main/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/martincollado-dev"><img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/main/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://martincollado.dev"><img height="30" src="https://github.com/martincolladodev/martincolladodev/blob/main/icons/web-programming.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@martincollado"><img height="30" src="https://github.com/martincolladodev/martincolladodev/blob/main/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/martincollado-dev"><img height="30" src="https://github.com/martincolladodev/martincolladodev/blob/main/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 </p>
     
 ### Hi there <a href="https://martincollado.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
@@ -56,12 +56,12 @@ As Site Reliability Engineer at [F. Agustin Betancourt](https://fundacionabetanc
 
 ### Core tech
 
-| <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/main/icons/python.png?raw=true"> | <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/main/icons/docker.png?raw=true"> | <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/main/icons/kubernetes.jpeg?raw=true"> | <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/main/icons/aws.png?raw=true"> | <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/main/icons/gcp.png?raw=true"> | 
+| <img height="30" src="https://github.com/martincolladodev/martincolladodev/blob/main/icons/python.png?raw=true"> | <img height="30" src="https://github.com/martincolladodev/martincolladodev/blob/main/icons/docker.png?raw=true"> | <img height="30" src="https://github.com/martincolladodev/martincolladodev/blob/main/icons/kubernetes.jpeg?raw=true"> | <img height="30" src="https://github.com/martincolladodev/martincolladodev/blob/main/icons/aws.png?raw=true"> | <img height="30" src="https://github.com/martincolladodev/martincolladodev/blob/main/icons/gcp.png?raw=true"> | 
 |------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 
 ### Frameworks & Technologies
 
-| <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/main/icons/terraform.png?raw=true"> | <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/main/icons/vue.png?raw=true"> | <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/main/icons/rabbitmq.png?raw=true"> | <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/main/icons/socketio.png?raw=true"> | <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/main/icons/adobe.png?raw=true"> | <img height="30" src="https://github.com/mcolladoio/mcolladoio/blob/main/icons/3d.png?raw=true"> |
+| <img height="30" src="https://github.com/martincolladodev/martincolladodev/blob/main/icons/terraform.png?raw=true"> | <img height="30" src="https://github.com/martincolladodev/martincolladodev/blob/main/icons/vue.png?raw=true"> | <img height="30" src="https://github.com/martincolladodev/martincolladodev/blob/main/icons/rabbitmq.png?raw=true"> | <img height="30" src="https://github.com/martincolladodev/martincolladodev/blob/main/icons/socketio.png?raw=true"> | <img height="30" src="https://github.com/martincolladodev/martincolladodev/blob/main/icons/adobe.png?raw=true"> | <img height="30" src="https://github.com/martincolladodev/martincolladodev/blob/main/icons/3d.png?raw=true"> |
 |---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 
 </details>
